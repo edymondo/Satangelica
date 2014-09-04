@@ -1,4 +1,0 @@
-Satangelica
-===========
-
-My mod
